@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-04T10:05:40.127Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="lGxpCOZ4Tn2TsBzWwCd5" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-04T10:00:32.678Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sY27RQmzoHvin1sK4kZC" version="24.2.5" type="device">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1434" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -29,55 +29,55 @@
           <mxGeometry x="630" y="75" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-10" value="" style="line;strokeWidth=1;direction=south;html=1;rounded=0;shadow=0;comic=1;strokeColor=default;align=center;verticalAlign=top;spacingTop=8;fontFamily=Verdana;fontSize=14;fontColor=#000000;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="10" height="630" as="geometry" />
+          <mxGeometry x="240" y="160" width="10" height="630" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-11" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="110" height="10" as="geometry" />
+          <mxGeometry x="280" y="220" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-12" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="160" height="10" as="geometry" />
+          <mxGeometry x="420" y="220" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-13" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="125" height="10" as="geometry" />
+          <mxGeometry x="610" y="220" width="125" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-14" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="220" height="10" as="geometry" />
+          <mxGeometry x="760" y="220" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-15" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="270" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-20" value="Бүтээгдэхүүний нэр&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="130" height="20" as="geometry" />
+          <mxGeometry x="280" y="200" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-23" value="Агуулахад байгаа тоо хэмжээ" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="190" height="20" as="geometry" />
+          <mxGeometry x="420" y="200" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-24" value="Захиалсан тоо хэмжээ" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="140" height="20" as="geometry" />
+          <mxGeometry x="610" y="200" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-25" value="Өмнө долоо хоногт захиалсан хэмжээ" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="580" y="190" width="250" height="20" as="geometry" />
+          <mxGeometry x="760" y="200" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-26" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="280" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-27" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="290" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-31" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="300" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="310" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-33" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="310" width="660" height="10" as="geometry" />
+          <mxGeometry x="290" y="320" width="660" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-34" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="210" width="50" height="10" as="geometry" />
+          <mxGeometry x="990" y="220" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-35" value="Үйлдэл" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="810" y="190" width="60" height="20" as="geometry" />
+          <mxGeometry x="990" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69ImnKJybGqa9ea78RvK-39" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="40" width="20" height="20" as="geometry" />
